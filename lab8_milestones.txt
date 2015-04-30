@@ -1,0 +1,33 @@
+Grading Rubric (Updated 3/18/15)
+TOTAL POINTS: 40
+
+2 points:
+1. Set up a GitHub repository so all three group members can individually make edits 
+and push those changes to the master. (All; David(master branch))
+
+10 points:
+2. Spend upwards of 5 hours each researching SDL and going through tutorials on 
+LazyFoo. (All)
+
+8 points:
+3. Begin to allocate images for our towers (cannons, archer towers, freeze towers) and 
+for the background. We can start by getting the program to compile and bring up a 
+window with a few test images. (David:Towers, Jack:Towers/Enemies, Luke: Background image, Enemies)
+
+10 points:
+4. Create initial classes and insert a couple methods and private data fields for each 
+class. For example, we will make an abstract "Tower" class and a few derived classes 
+that consist of Archer Tower ("is a" Tower) or Cannon Tower ("is a" Tower). We will also 
+begin to develop classes for the "Enemy" abstract base class, with derived classes for 
+particular types. Ultimately we are trying to plan out exactly how these classes will 
+function. (David: 2 or 3 Derived Classes from Tower Class, Jack:Tower Class + 1 derived class AND Enemy Class + 1 Derived class, Luke: 2 or 3 Derived classes from Enemy Class)
+
+10 points:
+5. Use SDL2 to practice animation by moving an image across the screen, even if it doesn't follow the path on the background image (All)
+
+Specific sub tasks to be completed by each member and submitted to GitHub:
+Luke Garrison: Submit a black screen with path outlined on it and maybe a dot moving inside.
+David Lewis: Submit a picture of an Enemy on a black screen inside path programmed by Luke
+Jack Ryan: Design Tower Base class and a few derived classes (interface only)
+
+Team Members: Jack Ryan, David Lewis, Luke Garrison
